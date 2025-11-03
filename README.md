@@ -39,3 +39,29 @@ Application showcasing a **Custom ListView** implementation to display **Planet 
 This project is crucial for mastering the construction of **complex list views** that involve more than just simple text, requiring custom adapters and model classes.
 
 ---
+
+### Screenshots:
+<table style="width:100%;"> 
+  <tr> 
+    <td align="center" style="width:50%;"> 
+      <strong>Main Screen
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_08_Planet_App/blob/main/Result%20Pics/1%20Main%20Screen.jpg" height="510" width="240"> 
+  </td> 
+    <td align="center" style="width:50%;"> 
+      <strong>ListView-ArrayAdapter
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_08_Planet_App/blob/main/Result%20Pics/2.1%20ListView-ArrayAdapter.jpg" height="510" width="240">
+</td> 
+    <td align="center" style="width:50%;"> 
+      <strong>Toast Message
+        <br>
+      </strong>
+      <br> 
+      <img src="https://github.com/MrHAM17/AD_08_Planet_App/blob/main/Result%20Pics/2.2%20Toast%20Message.jpg" height="510" width="240"> </td> </tr> </table>
+
+
