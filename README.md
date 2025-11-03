@@ -40,7 +40,7 @@ This project is crucial for mastering the construction of **complex list views**
 
 ---
 
-### Screenshots:
+### Screenshots
 <table style="width:100%;"> 
   <tr> 
     <td align="center" style="width:50%;"> 
