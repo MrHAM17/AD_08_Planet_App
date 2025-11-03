@@ -64,4 +64,5 @@ This project is crucial for mastering the construction of **complex list views**
       <br> 
       <img src="https://github.com/MrHAM17/AD_08_Planet_App/blob/main/Result%20Pics/2.2%20Toast%20Message.jpg" height="510" width="240"> </td> </tr> </table>
 
+---
 
